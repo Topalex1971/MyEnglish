@@ -5,9 +5,11 @@ We tested the Search Results Page (SRP) system. We found what didn’t work at t
 
 I have hobbies. I like when I do something myself hands. For example, I created solar power plant in my house. It worked. I was gladded. 
 And next I created tracer system for it. It was in the February in this year. 
-This is system tracking the movement of the sun and keeping solar panel perpendicularly in relation to the sun so it worked on the maximum efficiency. And I used to do many other homemade else.
+This is system tracking the movement of the sun and keeping solar panel perpendicularly in relation to the sun so it worked on the maximum efficiency. 
+And I used to do many other homemade else.
 
 Why did I select QA engineer position?
-Because I did work with Quality all my life. Many years I had got experience of development and implementation quality management system on the Ukrainian companies under ISO 9001, ISO 14001 and other international standard. 
+Because I did work with Quality all my life. Many years I had got experience of development and implementation quality management system 
+on the Ukrainian companies under ISO 9001, ISO 14001 and other international standard. 
 This is direction in early for my heart. I am perfect understanding what is the Quality assurance and the Quality Control . 
 And I am really recognizing difference between them.
