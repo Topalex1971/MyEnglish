@@ -1,8 +1,13 @@
 What project did you have at last time?
 My last project is site the cinema.
-I did have test of desktop version site online cinema. We are testing at Search Results Page (SRP). We found what didn’t do on the site about search feature.
+I did have test of desktop version site online cinema. We are testing at Search Results Page (SRP). We found what didnâ€™t do on the site about search feature.
 
-I have hobbies. I like when I am doing something on my hands. For example, I created solar system in my house. I used to create tracer system for the solar system on the February in this year. Them is tracking the movement of the sun and staying solar panel perpendicularly to the sun. And I had got many other homemade else.
+I have hobbies. I like when I am doing something on my hands. For example, I created solar system in my house. 
+I used to create tracer system for the solar system on the February in this year. 
+Them is tracking the movement of the sun and staying solar panel perpendicularly to the sun. And I had got many other homemade else.
 
-Why did I select this position – QA engineer?
-Because I did work with Quality all my life. Many years I have got experience of development and implementation quality management system on the Ukrainian companies under ISO 9001, ISO 14001. This is direction in early for my heart. I am understanding what is a Quality assurance and Quality Control . And I am really recognizing difference between them.
+Why did I select this position â€“ QA engineer?
+Because I did work with Quality all my life. 
+Many years I have got experience of development and implementation quality management system on the Ukrainian companies under ISO 9001, ISO 14001. 
+This is direction in early for my heart. I am understanding what is a Quality assurance and Quality Control . 
+And I am really recognizing difference between them.
